@@ -34,8 +34,5 @@
   "bin": {
     "convert-svg-to-png": "bin/convert-svg-to-png"
   },
-  "main": "src/index.js",
-  "engines": {
-    "node": ">=8"
-  }
+  "main": "src/index.js"
 }
